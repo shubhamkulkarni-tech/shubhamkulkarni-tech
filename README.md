@@ -105,10 +105,9 @@ My experience includes:
 ## 📈 GitHub Activity
 
 <div align="center">
-
 <img
-  src="https://github-readme-stats.vercel.app/api?username=shubhamkulkarni-tech&show_icons=true&theme=github_dark&count_private=true"
-  height="160"
+  src="https://github-readme-stats.vercel.app/api?username=shubhamkulkarni-tech&show_icons=true&theme=github_dark"
+  width="100%"
 />
 
 <img
