@@ -1,7 +1,10 @@
+<!-- TOP ANIMATED WAVE -->
+<img width="100%" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Top.svg" />
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/irfanMaulana1999/3d-icon/main/developer.svg" width="360" />
-
+<!-- CUSTOM 3D ILLUSTRATION -->
+<img src="./assets/3d-developer.png" width="420" />
 
 <h1 style="color:#e5e7eb;">Shubham Kulkarni</h1>
 
@@ -14,7 +17,6 @@
 </p>
 
 </div>
-
 
 ---
 
@@ -124,14 +126,10 @@ Portfolio: Coming soon
 ---
 
 <div align="center">
-
-<!-- Subtle Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111827&height=2" />
-
-<br/>
-
-<span style="color:#4b5563;">
-Building software that is dependable, readable, and built to last.
-</span>
-
+  <span style="color:#4b5563;">
+    Building software that is dependable, readable, and built to last.
+  </span>
 </div>
+
+<!-- BOTTOM ANIMATED WAVE -->
+<img width="100%" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
