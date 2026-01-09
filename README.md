@@ -107,18 +107,17 @@ My experience includes:
 <div align="center">
 
 <img
-<img
   src="https://github-readme-stats.vercel.app/api?username=shubhamkulkarni-tech&theme=tokyonight&show_icons=true&count_private=true"
   height="160"
 />
-/>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkulkarni-tech&theme=tokyonight&hide_border=true"
+  src="https://streak-stats.demolab.com?user=shubhamkulkarni-tech&theme=tokyonight"
   height="160"
 />
 
 </div>
+
 
 ---
 
