@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- 3D / Premium Header Visual -->
+<img src="https://user-images.githubusercontent.com/74038190/212750367-8c4a1f7e-7c3f-4c2f-8d61-60c1b2d7c1d1.gif" width="420" />
+
 <h1 style="color:#e5e7eb;">Shubham Kulkarni</h1>
 
 <p style="color:#9ca3af;">
@@ -21,7 +24,7 @@ I am a Full Stack Developer with a strong focus on backend engineering and syste
 I build applications that prioritize security, performance, and long-term maintainability.
 </span>
 
-<br/>
+<br/><br/>
 
 <span style="color:#9ca3af;">
 My experience includes employee management systems, HR portals, internal dashboards,
@@ -44,27 +47,25 @@ and API-driven business applications.
 
 ## <span style="color:#e5e7eb;">Technology Stack</span>
 
-**<span style="color:#d1d5db;">Frontend</span>**
-- <span style="color:#9ca3af;">React</span>
-- <span style="color:#9ca3af;">Tailwind CSS</span>
-- <span style="color:#9ca3af;">JavaScript (ES6+)</span>
-- <span style="color:#9ca3af;">HTML & CSS</span>
+### <span style="color:#d1d5db;">Frontend</span>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
+</p>
 
-**<span style="color:#d1d5db;">Backend</span>**
-- <span style="color:#9ca3af;">Node.js</span>
-- <span style="color:#9ca3af;">Express.js</span>
-- <span style="color:#9ca3af;">REST APIs</span>
-- <span style="color:#9ca3af;">JWT Authentication</span>
+### <span style="color:#d1d5db;">Backend</span>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,jwt&theme=dark" />
+</p>
 
-**<span style="color:#d1d5db;">Databases</span>**
-- <span style="color:#9ca3af;">MongoDB</span>
-- <span style="color:#9ca3af;">MySQL</span>
+### <span style="color:#d1d5db;">Databases</span>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+</p>
 
-**<span style="color:#d1d5db;">Tools</span>**
-- <span style="color:#9ca3af;">Git & GitHub</span>
-- <span style="color:#9ca3af;">Postman</span>
-- <span style="color:#9ca3af;">VS Code</span>
-- <span style="color:#9ca3af;">Vercel / Fly.io</span>
+### <span style="color:#d1d5db;">Tools & Platforms</span>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&theme=dark" />
+</p>
 
 ---
 
@@ -76,10 +77,14 @@ and API-driven business applications.
 - <span style="color:#9ca3af;">Attendance & leave workflows</span>
 - <span style="color:#9ca3af;">Secure authentication & roles</span>
 
+<br/>
+
 **<span style="color:#d1d5db;">Admin Dashboards</span>**
 - <span style="color:#9ca3af;">API-driven data rendering</span>
 - <span style="color:#9ca3af;">Filtering & search</span>
 - <span style="color:#9ca3af;">Clean dark UI</span>
+
+<br/>
 
 **<span style="color:#d1d5db;">HR Portal</span>**
 - <span style="color:#9ca3af;">Employee onboarding</span>
@@ -118,7 +123,14 @@ Portfolio: Coming soon
 ---
 
 <div align="center">
-  <span style="color:#4b5563;">
-    Building software that is dependable, readable, and built to last.
-  </span>
+
+<!-- Subtle Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111827&height=2" />
+
+<br/>
+
+<span style="color:#4b5563;">
+Building software that is dependable, readable, and built to last.
+</span>
+
 </div>
