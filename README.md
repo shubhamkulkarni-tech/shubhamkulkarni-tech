@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-I’m a **backend-focused full stack developer** passionate about building  
+I’m a **backend-focused full stack developer** who builds  
 **secure, scalable, and maintainable systems** for real-world business use.
 
 My experience includes:
@@ -93,7 +93,7 @@ My experience includes:
 ### Admin Dashboards
 - API-driven data rendering  
 - Advanced filtering & search  
-- Clean dark UI  
+- Clean modern dark UI  
 
 ### HR Portal
 - Employee onboarding  
