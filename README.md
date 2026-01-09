@@ -1,31 +1,20 @@
 <!-- TOP WAVE -->
-<img width="100%" src="./assets/download.svg" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=160&section=header&text=Shubham%20Kulkarni&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
 <div align="center">
 
 <img src="./assets/3d-developer.png" width="420" alt="Developer Illustration" />
 
-<h1>Shubham Kulkarni</h1>
+<!-- TYPING ANIMATION -->
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%26+Backend+Specialist;Building+Production-Ready+Systems"
+/>
 
-<p>
-  <b>Full Stack Developer</b> · MERN & Backend Specialist
-</p>
+<br/><br/>
 
-<p>
-  Designing scalable, secure, and production-ready web systems
-</p>
-
-<br/>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Backend--Focused-0ea5e9?style=flat-square&logo=serverless&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/MERN-22c55e?style=flat-square&logo=mongodb&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-facc15?style=flat-square&logo=github&logoColor=black" />
-</a>
+<img src="https://img.shields.io/badge/Backend--Focused-0ea5e9?style=flat-square&logo=serverless&logoColor=white" />
+<img src="https://img.shields.io/badge/MERN-22c55e?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-facc15?style=flat-square&logo=github&logoColor=black" />
 
 </div>
 
@@ -33,28 +22,28 @@
 
 ## 👋 About Me
 
-I’m a **backend-focused full stack developer** who enjoys building systems that last.  
-My work emphasizes **clean architecture**, **security**, and **real business use cases**.
+I’m a **backend-focused full stack developer** passionate about building  
+**secure, scalable, and maintainable systems** for real-world business use.
 
-I’ve built:
+My experience includes:
 - Employee Management Systems  
 - HR & Admin Portals  
 - Internal Business Dashboards  
-- API-first Applications  
+- API-driven Applications  
 
 ---
 
 ## 🧠 Core Expertise
 
-- Backend-first application design  
-- RESTful & secure API development  
+- Backend-first system architecture  
+- RESTful API development  
 - Authentication & authorization  
 - Role-based access control  
 - Business dashboards & internal tools  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technology Stack
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
@@ -87,7 +76,7 @@ I’ve built:
   </tr>
 </table>
 
-<sub>Consistent development on long-term and production-grade projects</sub>
+<sub>Consistent work on long-term & production-grade projects</sub>
 
 </div>
 
@@ -104,7 +93,7 @@ I’ve built:
 ### Admin Dashboards
 - API-driven data rendering  
 - Advanced filtering & search  
-- Clean, modern dark UI  
+- Clean dark UI  
 
 ### HR Portal
 - Employee onboarding  
@@ -118,16 +107,24 @@ I’ve built:
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=shubhamkulkarni-tech&show_icons=true&theme=tokyonight&hide_border=true"
   height="160"
 />
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkulkarni-tech&theme=tokyonight&hide_border=true"
   height="160"
 />
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shubhamkulkarni-tech/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
@@ -154,4 +151,4 @@ Open to:
 </div>
 
 <!-- BOTTOM WAVE -->
-<img width="100%" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=120&section=footer" />
