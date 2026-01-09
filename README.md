@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- CUSTOM 3D ILLUSTRATION -->
-<img src="./assets/3d-developer.png" width="420" />
+<img src="./assets/3d-developer.png" width="420" alt="Developer Illustration" />
 
 <h1 style="color:#e5e7eb;">Shubham Kulkarni</h1>
 
@@ -72,6 +72,31 @@ and API-driven business applications.
 
 ---
 
+## <span style="color:#e5e7eb;">Contribution Summary</span>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <h2 style="margin:0; color:#22c55e;">308</h2>
+      <p style="margin:0; color:#9ca3af;">Contributions in 2025</p>
+    </td>
+    <td align="center">
+      <h2 style="margin:0; color:#38bdf8;">43</h2>
+      <p style="margin:0; color:#9ca3af;">Contributions in 2026</p>
+    </td>
+  </tr>
+</table>
+
+<p style="color:#6b7280; margin-top:10px;">
+Focused on long-term projects and production-ready systems
+</p>
+
+</div>
+
+---
+
 ## <span style="color:#e5e7eb;">Selected Work</span>
 
 **<span style="color:#d1d5db;">Employee Management System</span>**
@@ -100,9 +125,15 @@ and API-driven business applications.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="150" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"
+  height="150"
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true" height="150" />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"
+  height="150"
+/>
 
 </div>
 
