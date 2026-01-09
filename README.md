@@ -1,166 +1,157 @@
-<!-- TOP ANIMATED WAVE -->
+<!-- TOP WAVE -->
 <img width="100%" src="./assets/download.svg" />
 
 <div align="center">
 
-<!-- CUSTOM 3D ILLUSTRATION -->
 <img src="./assets/3d-developer.png" width="420" alt="Developer Illustration" />
 
-<h1 style="color:#e5e7eb;">Shubham Kulkarni</h1>
+<h1>Shubham Kulkarni</h1>
 
-<p style="color:#9ca3af;">
-  Full Stack Developer · MERN & Backend Specialist
+<p>
+  <b>Full Stack Developer</b> · MERN & Backend Specialist
 </p>
 
-<p style="color:#6b7280;">
-  Building reliable, scalable web systems for real businesses
+<p>
+  Designing scalable, secure, and production-ready web systems
 </p>
+
+<br/>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Backend--Focused-0ea5e9?style=flat-square&logo=serverless&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/MERN-22c55e?style=flat-square&logo=mongodb&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-facc15?style=flat-square&logo=github&logoColor=black" />
+</a>
 
 </div>
 
 ---
 
-## <span style="color:#e5e7eb;">About</span>
+## 👋 About Me
 
-<span style="color:#9ca3af;">
-I am a Full Stack Developer with a strong focus on backend engineering and system architecture.
-I build applications that prioritize security, performance, and long-term maintainability.
-</span>
+I’m a **backend-focused full stack developer** who enjoys building systems that last.  
+My work emphasizes **clean architecture**, **security**, and **real business use cases**.
 
-<br/><br/>
-
-<span style="color:#9ca3af;">
-My experience includes employee management systems, HR portals, internal dashboards,
-and API-driven business applications.
-</span>
+I’ve built:
+- Employee Management Systems  
+- HR & Admin Portals  
+- Internal Business Dashboards  
+- API-first Applications  
 
 ---
 
-## <span style="color:#e5e7eb;">Core Expertise</span>
+## 🧠 Core Expertise
 
-<span style="color:#9ca3af;">
-• Backend-first application design  
-• RESTful API development  
-• Authentication & authorization  
-• Role-based access systems  
-• Business dashboards & internal tools  
-</span>
+- Backend-first application design  
+- RESTful & secure API development  
+- Authentication & authorization  
+- Role-based access control  
+- Business dashboards & internal tools  
 
 ---
 
-## <span style="color:#e5e7eb;">Technology Stack</span>
+## 🛠 Tech Stack
 
-### <span style="color:#d1d5db;">Frontend</span>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
-</p>
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
 
-### <span style="color:#d1d5db;">Backend</span>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,jwt&theme=dark" />
-</p>
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,jwt&theme=dark" />
 
-### <span style="color:#d1d5db;">Databases</span>
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-</p>
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
-### <span style="color:#d1d5db;">Tools & Platforms</span>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&theme=dark" />
-</p>
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&theme=dark" />
 
 ---
 
-## <span style="color:#e5e7eb;">Contribution Summary</span>
+## 📊 Contribution Summary
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center">
-      <h2 style="margin:0; color:#22c55e;">308</h2>
-      <p style="margin:0; color:#9ca3af;">Contributions in 2025</p>
+      <h1>308</h1>
+      <p>Contributions in 2025</p>
     </td>
     <td align="center">
-      <h2 style="margin:0; color:#38bdf8;">43</h2>
-      <p style="margin:0; color:#9ca3af;">Contributions in 2026</p>
+      <h1>43</h1>
+      <p>Contributions in 2026</p>
     </td>
   </tr>
 </table>
 
-<p style="color:#6b7280; margin-top:10px;">
-Focused on long-term projects and production-ready systems
-</p>
+<sub>Consistent development on long-term and production-grade projects</sub>
 
 </div>
 
 ---
 
-## <span style="color:#e5e7eb;">Selected Work</span>
+## 💼 Selected Work
 
-**<span style="color:#d1d5db;">Employee Management System</span>**
-- <span style="color:#9ca3af;">Full MERN stack application</span>
-- <span style="color:#9ca3af;">HR portal & admin dashboard</span>
-- <span style="color:#9ca3af;">Attendance & leave workflows</span>
-- <span style="color:#9ca3af;">Secure authentication & roles</span>
+### Employee Management System
+- Full MERN stack application  
+- HR portal & admin dashboard  
+- Attendance & leave workflows  
+- Secure authentication & roles  
 
-<br/>
+### Admin Dashboards
+- API-driven data rendering  
+- Advanced filtering & search  
+- Clean, modern dark UI  
 
-**<span style="color:#d1d5db;">Admin Dashboards</span>**
-- <span style="color:#9ca3af;">API-driven data rendering</span>
-- <span style="color:#9ca3af;">Filtering & search</span>
-- <span style="color:#9ca3af;">Clean dark UI</span>
-
-<br/>
-
-**<span style="color:#d1d5db;">HR Portal</span>**
-- <span style="color:#9ca3af;">Employee onboarding</span>
-- <span style="color:#9ca3af;">Department & role management</span>
-- <span style="color:#9ca3af;">Document workflows</span>
+### HR Portal
+- Employee onboarding  
+- Department & role management  
+- Document workflows  
 
 ---
 
-## <span style="color:#e5e7eb;">GitHub Activity</span>
+## 📈 GitHub Activity
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"
-  height="150"
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+  height="160"
 />
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"
-  height="150"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+  height="160"
 />
 
 </div>
 
 ---
 
-## <span style="color:#e5e7eb;">Availability</span>
+## 📬 Availability
 
-<span style="color:#9ca3af;">
-Open to full-time roles, freelance projects, and long-term collaborations.
-</span>
+Open to:
+- Full-time roles  
+- Freelance projects  
+- Long-term collaborations  
 
 ---
 
-## <span style="color:#e5e7eb;">Contact</span>
+## 🔗 Contact
 
-<span style="color:#9ca3af;">
-Email: yourprofessionalemail@example.com  
-Portfolio: Coming soon  
-</span>
+- Email: yourprofessionalemail@example.com  
+- Portfolio: Coming soon  
 
 ---
 
 <div align="center">
-  <span style="color:#4b5563;">
-    Building software that is dependable, readable, and built to last.
-  </span>
+  <sub>
+    Building software that is clean, reliable, and built to scale.
+  </sub>
 </div>
 
-<!-- BOTTOM ANIMATED WAVE -->
+<!-- BOTTOM WAVE -->
 <img width="100%" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
