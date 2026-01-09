@@ -107,8 +107,10 @@ My experience includes:
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=shubhamkulkarni-tech&show_icons=true&theme=tokyonight&hide_border=true"
+<img
+  src="https://github-readme-stats.vercel.app/api?username=shubhamkulkarni-tech&theme=tokyonight&show_icons=true&count_private=true"
   height="160"
+/>
 />
 
 <img
