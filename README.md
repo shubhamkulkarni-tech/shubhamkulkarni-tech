@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216656972-9e9b3c4f-1e52-4a6c-bcf8-7b0e9cfc9b6b.png" width="420" />
+<img src="[https://user-images.githubusercontent.com/74038190/216656972-9e9b3c4f-1e52-4a6c-bcf8-7b0e9cfc9b6b.png](https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/assets/agpr.gif)" width="420" />
 
 <h1 style="color:#e5e7eb;">Shubham Kulkarni</h1>
 
