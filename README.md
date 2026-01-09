@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- 3D / Premium Header Visual -->
-<img src="https://user-images.githubusercontent.com/74038190/212750367-8c4a1f7e-7c3f-4c2f-8d61-60c1b2d7c1d1.gif" width="420" />
+<img src="https://user-images.githubusercontent.com/74038190/216656972-9e9b3c4f-1e52-4a6c-bcf8-7b0e9cfc9b6b.png" width="420" />
 
 <h1 style="color:#e5e7eb;">Shubham Kulkarni</h1>
 
@@ -14,6 +13,7 @@
 </p>
 
 </div>
+
 
 ---
 
