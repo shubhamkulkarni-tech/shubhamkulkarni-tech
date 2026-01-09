@@ -1,5 +1,5 @@
 <!-- TOP ANIMATED WAVE -->
-<img width="100%" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Top.svg" />
+<img width="100%" src="./assets/download.svg" />
 
 <div align="center">
 
