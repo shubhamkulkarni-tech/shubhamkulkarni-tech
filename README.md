@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shubhamkulkarni-tech/shubhamkulkarni-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shubham%20Kulkarni&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-Here are some ideas to get you started:
+### Full Stack Developer • MERN Specialist • Backend Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Systems;MERN+Stack+Developer;Backend+%26+API+Focused;Dashboards+%7C+HR+%7C+EMS;Clean+Code+%7C+Real-World+Projects" />
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```js
+const shubham = {
+  role: "Full Stack Developer",
+  specialization: "Backend & System Design",
+  stack: ["MongoDB", "Express", "React", "Node", "MySQL"],
+  experience: [
+    "Employee Management Systems",
+    "HR Portals",
+    "Admin Dashboards",
+    "Attendance & Leave Systems"
+  ],
+  principles: ["Clean Code", "Scalable Architecture", "Security First"]
+};
