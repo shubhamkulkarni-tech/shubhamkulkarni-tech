@@ -102,32 +102,6 @@ My experience includes:
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-<img
-  src="https://github-readme-stats.vercel.app/api?username=shubhamkulkarni-tech&show_icons=true&theme=github_dark"
-  width="100%"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=shubhamkulkarni-tech&theme=github-dark"
-  height="160"
-/>
-
-</div>
-
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shubhamkulkarni-tech/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 📬 Availability
 
 Open to:
