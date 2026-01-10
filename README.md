@@ -113,7 +113,7 @@ Open to:
 
 ## 🔗 Contact
 
-- Email: yourprofessionalemail@example.com  
+- Email: skulk156.pc@gmail.com  
 - Portfolio: Coming soon  
 
 ---
