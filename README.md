@@ -66,11 +66,7 @@ My experience includes:
 <table>
   <tr>
     <td align="center">
-      <h1>308</h1>
-      <p>Contributions in 2025</p>
-    </td>
-    <td align="center">
-      <h1>43</h1>
+      <h1>400+</h1>
       <p>Contributions in 2026</p>
     </td>
   </tr>
